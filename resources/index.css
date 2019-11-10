@@ -1,0 +1,21 @@
+body {
+    background-color: #363533;
+    color: #ffffff;
+
+}
+
+table {
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    padding: 5px;
+    margin: 30px;
+}
+
+table tr td:first-child {
+    border-radius: 5px;
+}
+
+.inactive-text {
+color: gray;
+}
